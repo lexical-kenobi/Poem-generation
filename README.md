@@ -1,4 +1,4 @@
-# Words-Vision-AttnGAN
+# Poem-generation
 
 <img src="framework.png"/>
 
