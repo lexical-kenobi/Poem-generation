@@ -26,4 +26,4 @@ run `pip2 install -r requirements.txt` to install the required dependencies.
 
 ### Sample Outputs
 
-<img src="sample_output.png"/>
+<img src="sample_output.jpg"/>
